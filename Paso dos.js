@@ -52,3 +52,6 @@ client.login("ElTokenDeTuBot")
 {======}
 
 Ahora debe que ir a package.json, y clickear add package y buscar discord.js, espera un poco y clickea cuando te salga discord.js
+
+Y para tener el token de tu bot, ve a discord developers y clickear a tu aplicacion y ir donde bot y te saldra token dale al boton
+copiar y pegalo donde pone client.login("Token")
