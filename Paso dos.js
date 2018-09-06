@@ -47,3 +47,8 @@ client.on('message', message => {
 });
 
 client.login("ElTokenDeTuBot")
+
+
+{======}
+
+Ahora debe que ir a package.json, y clickear add package y buscar discord.js, espera un poco y clickea cuando te salga discord.js
