@@ -4,7 +4,7 @@ cuenta, pero ojo! Solo admite de facebook o github. Te registras y dale a Nuevo 
 Le das y tienes tu proyecto, recuerda ponerle el candado. Ahora debe que ir a `server.js` y borrarlo todo y reemplazar por este.
 
 
-[===============]
+[=======]
 
 const http = require('http');
 const express = require('express');
@@ -28,7 +28,7 @@ setInterval(() => {
 }, 280000);
 
 
-//DESDE AQUI EMPIEZA A ESCRIBIR EL CODIGO PARA SU BOT
+
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
